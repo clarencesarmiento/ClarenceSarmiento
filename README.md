@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Clarence Sarmiento
+# Hi there 👋, I'm Clarence Sarmiento
+## An Aspiring 2nd Year Computer Engineering Student
 
 - 🔭 I’m currently working on some Python Projetcs.
 - 🌱 I’m currently learning C++, Java and improving my skills and knowledge on Puthon.

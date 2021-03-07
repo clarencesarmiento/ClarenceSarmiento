@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Clarence Sarmiento
-## ***An Aspiring 2nd Year Computer Engineering Student***
+## ***An Aspiring 2nd Year Computer Engineering Student And Machine Learning Enthusiasts***
 
 - 🔭 I’m currently working on some Python Projetcs.
 - 🌱 I’m currently learning C++, Java and improving my skills and knowledge on Python.

@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Clarence Sarmiento
-## ***An Aspiring Computer Engineer And Deep Learning Enthusiasts***
+## ***A Computer Engineer Wanted To Be A Python Developer And Deep Learning Enthusiasts***
 
 - 🔭 I’m currently working on some Python Projetcs.
 - 🌱 I’m currently learning C++, Java and improving my skills and knowledge on Python.

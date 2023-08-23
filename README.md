@@ -19,7 +19,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="center">
 <a href="mailto:sarmiento.clarence1020@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sarmiento.clarence1020@gmail.com"/></a>
 <a href="https://linkedin.com/in/clarence-sarmiento" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="clarence-sarmiento"/></a>

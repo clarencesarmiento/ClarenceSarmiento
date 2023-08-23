@@ -1,5 +1,5 @@
-#### 👋 Hey there, I'm Clarence 👨‍💻
-## *A Computer Engineer Wanted To Be A Python Developer.*
+## 👋 Hey there, I'm Clarence 👨‍💻
+# *I'm a Computer Engineer Wanted To Be A Python Developer.*
 
 - 🌱 Still learning and gaining knowledge with Python.
 - 🔎 Exploring new things in technology.

@@ -1,21 +1,13 @@
-<h1 align="center">Hey there👋, I'm Clarence 👨‍💻</h1>
-<h3 align="center">A Computer Engineer Wanted to be a Python Developer.</h3>
+### Hey there 👋, I'm Clarence Sarmiento
+A Computer Engineer 👨‍💻 with a passion for Python Programming.
 
-- 🔭 I’m currently working on **Food Ordering System**
+- 🔭 I'm currently working on **Food Ordering System**.
+- 💡 I'm interested in **Automation**, **Machine Vision**, and **Deep Learning**.
+- 💬 Talk to me about **Fishes** 🐠, and **Movies** 🎥.
+- ⚡ Fun fact: I created my first-ever python project with over 400 lines of codes.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ClarenceSarmiento)
-
-- 📫 How to reach me **sarmiento.clarence1020@gmail.com**
-
-- ⚡ Fun fact **I created my first ever project with 400+ lines of codes.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarmientorence_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarmientorence_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/clarence-sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clarence-sarmiento" height="30" width="40" /></a>
-<a href="https://fb.com/clarence.sarmiento.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="clarence.sarmiento.20" height="30" width="40" /></a>
-<a href="https://instagram.com/sarmientorence_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarmientorence_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## My Skills
+#### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=py,cpp,java)](https://skillicons.dev)
+#### Softwares
+[![Softwares](https://skillicons.dev/icons?i=pr,ps,figma)](https://skillicons.dev)

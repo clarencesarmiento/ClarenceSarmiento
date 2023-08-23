@@ -12,6 +12,9 @@
 <h2 align='left'> My skills include</h2>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencesarmiento&theme=dark" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,git,regex,arduino,raspberrypi,stackoverflow,tensorflow,vscode,figma,ps,pr" />
   </a>
 </p>

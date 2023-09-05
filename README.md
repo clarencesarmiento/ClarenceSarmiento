@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋, I'm Clarence Sarmiento </h1>
 <h3 align="center"> A Computer Engineer 👨‍💻 with a passion for Python Programming. </h3>
 
-- 🔭 I'm currently working on **[Food Ordering System](https://github.com/clarencesarmiento/Food-Ordering-System)**.
+- 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
   
 - 💡 I'm interested in **Automation**, **Machine Vision**, and **Deep Learning**.
   

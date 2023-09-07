@@ -1,5 +1,6 @@
 <h1 align="center"> Hey there 👋, I'm Clarence Sarmiento </h1>
 <h3 align="center"> A Computer Engineer 👨‍💻 with a passion for Python Programming. </h3>
+![](https://komarev.com/ghpvc/?username=clarencesarmiento&style=flat-square)
 
 - 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
   

@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clarencesarmiento&style=plastic)
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 - 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
   

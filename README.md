@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 <h1 align="center"> Hey there 👋, I'm Clarence Sarmiento </h1>
 <h3 align="center"> A Computer Engineer 👨‍💻 with a passion for Python Programming. </h3>
 

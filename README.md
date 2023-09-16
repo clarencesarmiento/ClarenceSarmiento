@@ -1,9 +1,8 @@
+<img align="center" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> 
 <h1 align="center"> Hey there 👋, I'm Clarence Sarmiento </h1>
 <h3 align="center"> A Computer Engineer 👨‍💻 with a passion for Python Programming. </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clarencesarmiento&style=plastic)
-
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 - 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
   

@@ -15,7 +15,7 @@
 <h2 align='left'> My skills include</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,sqlite,mysql,git,regex,arduino,raspberrypi,stackoverflow,tensorflow,replit,vscode,figma,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,sqlite,mysql,git,regex,arduino,raspberrypi,stackoverflow,tensorflow,replit,vscode,figma,ps,pr&perline=8" />
   </a>
 </p>
 

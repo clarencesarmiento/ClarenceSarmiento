@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
   
-- 💡 I'm interested in **Automation**, **Machine Vision**, and **Deep Learning**.
+- 💡 I'm interested in **Desktop Applications** and **Graphic User Interface**.
   
 - 💬 Talk to me about **Fishes** 🐠, and **Movies** 🎥.
   

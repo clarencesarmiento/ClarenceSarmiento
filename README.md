@@ -24,7 +24,7 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="center">
-<a href="mailto:clarencemolinosarmiento@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sarmiento.clarence1020@gmail.com"/></a>
+<a href="mailto:clarencemolinosarmiento@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="clarencemolinosarmiento@gmail.com"/></a>
 <a href="https://linkedin.com/in/clarence-sarmiento" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="clarence-sarmiento"/></a>
 <a href="https://fb.com/clarence.sarmiento.20" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="clarence.sarmiento.20"/></a>
 <a href="https://instagram.com/sarmientorence_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sarmientorence_" /></a>

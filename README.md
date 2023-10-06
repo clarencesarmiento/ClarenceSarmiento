@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clarencesarmiento&style=plastic)
 
-- 🔭 I'm currently working on **[Phonebook](https://github.com/clarencesarmiento/Phonebook)**.
+- 🔭 I'm currently working on **[URL Shortener](https://github.com/clarencesarmiento/URLShortener)**.
   
 - 💡 I'm interested in **Desktop Applications** and **Graphic User Interface**.
   

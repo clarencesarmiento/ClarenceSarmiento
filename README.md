@@ -3,6 +3,7 @@
 <h3 align="center"> A Computer Engineer 👨‍💻 with a passion for Python Programming. </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clarencesarmiento&style=plastic)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue.svg?style=plastic)](https://gamma.app/public/Desktop-Application-Development-Portfolio-spclq99omb2aqgx)
 
 - 🔭 I'm currently working on **[URL Shortener](https://github.com/clarencesarmiento/URLShortener)**.
   
